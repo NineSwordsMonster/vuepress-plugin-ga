@@ -1,0 +1,28 @@
+{
+  "name": "@nines/vuepress-plugin-ga",
+  "version": "0.0.1",
+  "description": "ga plugin for vuepress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NineSwordsMonster/vuepress-plugin-ga.git"
+  },
+  "keywords": [
+    "ga",
+    "vuepress"
+  ],
+  "author": "wangjia_1919@163.com",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/NineSwordsMonster/vuepress-plugin-ga/issues"
+  },
+  "homepage": "https://github.com/NineSwordsMonster/vuepress-plugin-ga#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.4.0",
+    "eslint-plugin-vue": "^5.2.3"
+  }
+}
