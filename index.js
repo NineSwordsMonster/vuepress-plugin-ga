@@ -7,7 +7,7 @@ module.exports = (options, context) => ({
       GAID,
     }
   },
-  name: '@vuepress-reco/vuepress-plugin-ga',
+  name: '@nines/vuepress-plugin-ga',
   enhanceAppFiles: [
     path.resolve(__dirname, './bin/enhanceAppFile.js')
   ]
