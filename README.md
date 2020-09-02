@@ -1,4 +1,4 @@
-# vuepress-plugin-ga
+# @nine-theme/vuepress-plugin-ga
 ![GitHub last commit](https://img.shields.io/github/last-commit/nine-theme/vuepress-plugin-ga) 
 ![npm (scoped)](https://img.shields.io/npm/v/@nine-theme/vuepress-plugin-ga) 
 ![npm](https://img.shields.io/npm/dt/@nine-theme/vuepress-plugin-ga) 
