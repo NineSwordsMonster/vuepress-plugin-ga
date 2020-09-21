@@ -1,6 +1,6 @@
 const { path } = require('@vuepress/shared-utils')
 
-module.exports = (options, context) => ({
+module.exports = (options) => ({
   define () {
     const { GAID } = options
     return {

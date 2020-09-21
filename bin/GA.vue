@@ -1,11 +1,13 @@
-<template></template>
+<template>
+  <div />
+</template>
 
 <script>
 export default {
   name: 'GA',
   data () {
     return {
-      GAID
+      GAID: ''
     }
   },
   mounted () {
@@ -16,7 +18,7 @@ export default {
       document.body.append(script)
       script.onload = function () {
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag(){window.dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', `${GAID}`);
       }
