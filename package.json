@@ -1,5 +1,5 @@
 {
-  "name": "@nines/vuepress-plugin-ga",
+  "name": "@nine-theme/vuepress-plugin-ga",
   "version": "0.0.3",
   "description": "ga plugin for vuepress",
   "main": "index.js",
