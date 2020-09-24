@@ -1,6 +1,6 @@
 {
   "name": "@nine-theme/vuepress-plugin-ga",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.4-alpha.5",
   "description": "ga plugin for vuepress",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,9 @@
   "homepage": "https://github.com/NineSwordsMonster/vuepress-plugin-ga#readme",
   "devDependencies": {
     "vuepress": "^1.5.4"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "4613eeb20a0e1e38cebfa4c2b1fc5f7d20572bb3"
 }
